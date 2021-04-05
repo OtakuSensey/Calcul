@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#082B9A"
+    android:orientation="vertical"
+    tools:context=".settings">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Темы"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnT1"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#EFD916"
+        android:text="Team 1" />
+
+    <Button
+        android:id="@+id/btnT2"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#D5EA1A"
+        android:text="Team 2" />
+</LinearLayout>
