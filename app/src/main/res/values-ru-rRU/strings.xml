@@ -2,5 +2,8 @@
 <resources>
     <string name="app_name">Calculator+</string>
     <string name="error_zero" translatable="false">Ошибка</string>
-    <string name="stsrtsettings" translatable="false">Настройки</string>
+    <string name="Settings">Настройки</string>
+    <string name="Paste" translatable="false">Вставить</string>
+    <string name="Copy" translatable="false">Копировать</string>
+    <string name="About" translatable="false">Информация</string>
 </resources>

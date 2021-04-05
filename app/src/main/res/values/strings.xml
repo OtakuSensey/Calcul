@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name" translatable="false">Calculator+</string>
     <string name="error_zero" translatable="false">Error not zero</string>
-    <string name="stsrtsettings" translatable="false">Settings</string>
+    <string name="Settings" translatable="false">Settings</string>
+    <string name="Paste" translatable="false">Paste</string>
+    <string name="Copy" translatable="false">Copy</string>
+    <string name="About" translatable="false">About</string>
 </resources>

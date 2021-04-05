@@ -4,21 +4,21 @@
     <item
     android:id="@+id/copy"
     app:showAsAction="never"
-    android:title="Copy">
+    android:title="@string/Copy">
 </item>
     <item
         android:id="@+id/paste"
         app:showAsAction="never"
-        android:title="Paste">
+        android:title="@string/Paste">
     </item>
     <item
         android:id="@+id/action_settings"
         app:showAsAction="never"
-        android:title="Settings">
+        android:title="@string/Settings">
     </item>
         <item
             android:id="@+id/about"
             app:showAsAction="never"
-            android:title="About">
+            android:title="@string/About">
         </item>
 </menu>
